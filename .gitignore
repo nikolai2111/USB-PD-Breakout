@@ -1,2 +1,7 @@
 *.kicad_pcb-bak
 *.bak
+
+*.gbr
+*.map
+*.drl
+*_map.pdf
